@@ -2,7 +2,7 @@
 
 This is a Minecraft mod for recreate Fortnite in Minecraft 1.12.2.
 
-I've also created a Minecraft Sponge plugin, check it out!
+I've also created a Minecraft Sponge plugin, [check it out](https://github.com/matteof04/FortcraftServerPlugin/)!
 
 I use this mod inside this modpack:
 
