@@ -1,0 +1,5 @@
+item.fortcraft.bedrock_pickaxe.name=Bedrock Pickaxe
+item.fortcraft.jump.name=Jump
+item.fortcraft.jetpack.name=Jetpack
+tile.fortcraft.loot_box.name=Loot Box
+itemGroup.tabFortcraft=Fortcraft

@@ -1,0 +1,13 @@
+{
+    "forge_marker": 1,
+    "defaults": {
+        "textures": {
+            "all": "fortcraft:blocks/loot_box"
+        },
+        "model": "cube_all",
+        "uvlock": true
+    },
+    "variants": {
+        "normal": [{}]
+    }
+}
